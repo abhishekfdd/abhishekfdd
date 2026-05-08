@@ -245,8 +245,8 @@ Shell scripting, scheduled jobs, infrastructure-as-code experiments, Git-driven 
 
 <div align="center">
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekfdd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekfdd&layout=compact&theme=tokyonight&hide_border=true&hide=tex)
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhishekfdd&theme=tokyonight&no-frame=true&column=7)
+![Streak](https://streak-stats.demolab.com?user=abhishekfdd&theme=tokyonight&hide_border=true)
 
 </div>
 
