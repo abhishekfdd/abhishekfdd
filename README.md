@@ -228,17 +228,6 @@ Shell scripting, scheduled jobs, infrastructure-as-code experiments, Git-driven 
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhishekfdd&theme=tokyonight&no-frame=true&column=7)
-![Streak](https://streak-stats.demolab.com?user=abhishekfdd&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## ✍️ Writing
 
 I write about WordPress internals, PHP, architecture decisions, AI workflows, and homelab/networking on my blog.
