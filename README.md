@@ -98,19 +98,6 @@ Built single-file HTML/Chart.js dashboards for SSO-protected enterprise APIs.
 
 ---
 
-## 🧩 Recent WordPress Core contributions
-
-| Ticket | Summary |
-|---|---|
-| 🎫 [**#64556**](https://core.trac.wordpress.org/ticket/64556) | Fix for undefined index in category parent slug lookup during filtered exports (`export.php`) |
-| 🎫 [**#64842**](https://core.trac.wordpress.org/ticket/64842) | MP3 upload failures with non-ASCII ID3 tags — UTF-8 conversion in `media.php` |
-| 🎫 [**#64709**](https://core.trac.wordpress.org/ticket/64709) | Investigation of a Firefox-specific "Fit text" scaling bug in the Media & Text block |
-| 🎫 [**#36882**](https://core.trac.wordpress.org/ticket/36882) | CSS proposal for a unified `.wp-delete-link` utility class in `common.css` |
-
-📋 Full activity → [profiles.wordpress.org/abhishekfdd](https://profiles.wordpress.org/abhishekfdd/)
-
----
-
 ## 🤖 AI-assisted development & agent workflows
 
 > AI coding agents are a serious part of my toolchain — not autocomplete, but collaborators that need clear specs, guardrails, and context to be productive on real projects.
